@@ -190,10 +190,6 @@
   version "9.0.0-rc.8-sha-dfa5f40e6"
   resolved "https://codeload.github.com/angular/material2-docs-content/tar.gz/ebc5d30ace9e09b2e76ef69fbb50182d19b99cf9"
 
-"@angular/components-examples@angular/material2-docs-content#master":
-  version "9.0.0-rc.7-sha-31a50f7ad"
-  resolved "https://codeload.github.com/angular/material2-docs-content/tar.gz/40f14af524a2e015eee7c98687644239917eeb08"
-
 "@angular/core@^9.0.0-rc.8":
   version "9.0.0-rc.8"
   resolved "https://registry.yarnpkg.com/@angular/core/-/core-9.0.0-rc.8.tgz#244be4fb488945fd743c973564bcd2b16837f881"
